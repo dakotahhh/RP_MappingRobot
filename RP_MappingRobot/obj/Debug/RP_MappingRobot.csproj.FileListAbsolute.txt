@@ -5,3 +5,9 @@ C:\Users\Dakotah\source\repos\RP_MappingRobot\RP_MappingRobot\obj\Debug\RP_Mappi
 C:\Users\Dakotah\source\repos\RP_MappingRobot\RP_MappingRobot\obj\Debug\RP_MappingRobot.exe
 C:\Users\Dakotah\source\repos\RP_MappingRobot\RP_MappingRobot\obj\Debug\RP_MappingRobot.pdb
 C:\Users\Dakotah\source\repos\RP_MappingRobot\RP_MappingRobot\obj\Debug\RP_MappingRobot.csprojAssemblyReference.cache
+C:\Users\Dakotah\source\RP_MappingRobot\RP_MappingRobot\RP_MappingRobot\bin\Debug\RP_MappingRobot.exe.config
+C:\Users\Dakotah\source\RP_MappingRobot\RP_MappingRobot\RP_MappingRobot\bin\Debug\RP_MappingRobot.exe
+C:\Users\Dakotah\source\RP_MappingRobot\RP_MappingRobot\RP_MappingRobot\bin\Debug\RP_MappingRobot.pdb
+C:\Users\Dakotah\source\RP_MappingRobot\RP_MappingRobot\RP_MappingRobot\obj\Debug\RP_MappingRobot.csproj.CoreCompileInputs.cache
+C:\Users\Dakotah\source\RP_MappingRobot\RP_MappingRobot\RP_MappingRobot\obj\Debug\RP_MappingRobot.exe
+C:\Users\Dakotah\source\RP_MappingRobot\RP_MappingRobot\RP_MappingRobot\obj\Debug\RP_MappingRobot.pdb
