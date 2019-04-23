@@ -18,6 +18,9 @@ namespace RP_MappingRobot
             MappingRobot mappingRobot = new MappingRobot();
             Console.WriteLine("Welcome to Mapping Robot. \n");
             mappingRobot.ReadDestinationInput();
+            Console.WriteLine("Would you like to continue? Y or N");
+            if (Console.ReadLine().Equals("Y"))
+                mappingRobot.ReadDestinationInput();
         }
 
         /// <summary>
